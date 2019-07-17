@@ -63,7 +63,7 @@
             "version_requirement": "5.x"
         }
     ],
-    "source": "git://github.com/openstack/puppet-openstacklib.git",
+    "source": "git://github.com/needle2k/puppet-openstacklib.git",
     "summary": "Puppet OpenStack Libraries",
     "version": "15.0.0"
 }
